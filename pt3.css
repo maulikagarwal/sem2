@@ -1,0 +1,284 @@
+
+ #demo1 a:link {
+    
+    text-decoration: none;
+  }
+
+#demo1 a:hover {
+    text-decoration: none;
+  }
+  
+
+  #demo2 a:link {
+    text-decoration: none;
+  }
+
+#demo2 a:hover {
+    text-decoration: none;
+  }
+  
+  #demo3 a:link {
+    text-decoration: none;
+  }
+
+#demo3 a:hover {
+    text-decoration: none;
+  }
+  
+  #demo4 a:link {
+    text-decoration: none;
+  }
+
+#demo4 a:hover {
+    text-decoration: none;
+  }
+  
+  #demo5 a:link {
+    text-decoration: none;
+  }
+
+#demo5 a:hover {
+    text-decoration: none;
+  }
+  
+  
+
+
+#boot
+{
+    background: #1b1b1b;
+    font-family: 'raleway';
+    color: white;
+    background-attachment: fixed;
+}
+.clean{
+    list-style:square;
+}
+.navbar{
+    position: relative;   
+    background-color: #111111;
+}
+
+.navbar-brand{
+    color: white;
+    font-weight: bold;
+}
+
+
+.navbar-toggler-icon{
+    font-size: 20px;
+    color: white;
+    background: transparent;
+    padding: 20px;
+
+}
+
+.nav-item{
+    display: inline-block;
+    margin: 10px;
+    margin: 0 5px;
+    padding: 20px;
+    
+}
+
+.nav-link{
+    color: white;
+    font-size: 17px;
+    padding: 7px 13px;
+    border-radius: 3px;
+    
+    
+}
+
+.nav-link:hover{
+    background: transparent;
+    border: none;
+    color: #002244;
+    box-shadow: 10px 10px 20px #111111;
+    transition: 0.3s;
+    background: #002244;
+}
+
+#boot h1{
+    font-family: 'raleway';
+    font-size: 60px;
+    font-weight: 600;
+    
+}
+
+
+
+
+#boot h2{
+    font-family: 'raleway';
+    font-size: 40px;
+    font-weight: 350;
+    
+}
+
+a.btn {
+    padding: 50px;
+    margin: 40px;
+   
+    font-size: 30px;
+    border: 2.5px solid #5072A7;
+    color: white;
+}
+
+a.btn:hover{
+    background: transparent;
+    border: none;
+    color:white;
+    box-shadow: 10px 10px 20px #002244;
+    transition: 0.3s;
+}
+
+.universal-text{
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+}
+
+.card-body{
+    background-color:darkgray;
+    min-width: 15em;
+    font-weight: 500;
+    
+    
+}
+
+.btn-secondary{
+    padding: 15px;
+    font-size: 15px;
+    
+    border: 1px solid #383438;
+    
+    background-color: transparent;
+    color: white;
+    
+}
+.btn-secondary:hover{
+    background: #002244;
+    border: none;
+    color:white;
+    box-shadow: 5px 5px 10px #1b1b1b;
+    transition: 0.3s;
+}
+
+
+
+.card-body{
+    background-color: #111111;
+}
+
+
+.noteCard{
+    background-color: #1b1b1b;
+}
+
+input{
+    border: none;
+}
+
+.form-control{
+    border: none;
+}
+
+#reminder-form {
+	padding-bottom: 1em;
+}
+
+.reminder-due {
+	background-color: #391111;
+}
+
+.card-shape{
+    min-width: 2em;
+}
+
+::-webkit-scrollbar-track
+{
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+	background-color: #2C292C;
+}
+
+::-webkit-scrollbar
+{
+	width: 6px;
+	background-color: white;
+}
+
+::-webkit-scrollbar-thumb
+{
+	background-color: white;
+}
+
+
+html 
+{
+    position: relative;
+    min-height: 100%;
+}
+body 
+{
+    margin-bottom: 60px; /* should be same as footer height */
+}
+  .footer 
+  {
+    position: absolute;
+    bottom: 0;
+     left: 0; 
+    width: 100%;
+    height: 60px;
+    line-height: 17px; 
+    
+  }
+  
+#handout a{
+    color: white;
+}
+
+#handout a:hover{
+    color: #0275d8;
+}
+
+#textbook a{
+    color: white;
+}
+
+#textbook a:hover{
+    color: #0275d8;
+}
+
+#lectures a{
+    color: white;
+}
+
+#lectures a:hover{
+    color: #0275d8;
+}
+
+#meet a{
+    color: white;
+}
+
+#meet a:hover{
+    color: #0275d8;
+}
+
+#pyqs a{
+    color: white;
+}
+
+#pyqs a:hover{
+    color: #0275d8;
+}
+
+.linkmod a
+{
+    color:white;
+}
+
+.linkmod a:hover{
+    color:#0275d8
+}
